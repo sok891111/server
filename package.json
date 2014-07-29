@@ -1,0 +1,13 @@
+{
+  "name": "geolocationChat",
+  "version": "0.0.1",
+  "description": "geolocationChat",
+  "dependency": {},
+  "dependencies": {
+    "express": "^4.6.1",
+    "nodemon": "^1.2.1",
+    "socket.io": "^1.0.6",
+     "policyfile": "0.0.4",
+     "redis": "0.7.1"
+  }
+}
